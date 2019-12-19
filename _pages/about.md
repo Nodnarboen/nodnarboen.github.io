@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brand new(neo) perspective into Brandon's brain."
+title: "Brand new(neo)'s perspective"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-An online space to store the thoughts of me.
+An online space to jot down my thoughts.
 
