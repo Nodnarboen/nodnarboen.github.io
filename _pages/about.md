@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Brand Neo Blog. Brand new perspective into Brand's brain."
+title: "Brand new(neo) perspective into Brandon's brain."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
