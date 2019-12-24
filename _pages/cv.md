@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Information Technology and Systems, Monash University, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2016: <b>Cloud Strategist APAC</b>
+  * <a href="https://www.dynatrace.com">Dynatrace</a> (joined with Ruxit)
+  * Thought and technical leader for Engineering team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2012: <b>Solutions Consultant ASEAN</b>
+  * CA (Now Broadcom)
+  * SME for CA Application Performance Monitoring (APM)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Presales
+* Consulting
+* Project Management
+* Leadership
+* Development
+  * PHP
+  * Java
+  * Javascript
+  * C, C++
+  * Python (learning)
+  * More on <a href="https://www.linkedin.com/in/brandon-neo/">Linkedin</a>
   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
