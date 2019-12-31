@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brandon Neo's perspective"
+title: "Brand Neo Perspective"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
