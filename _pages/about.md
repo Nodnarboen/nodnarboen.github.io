@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brand Neo's perspective"
+title: "Brandon Neo's perspective"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 Who am I?
 ---------
 
-A Man-boy-father-husband-nerd-geek all rolled into one. 
+A man-boy-father-husband-nerd-geek all rolled into one. 
 
 
 What is this?
