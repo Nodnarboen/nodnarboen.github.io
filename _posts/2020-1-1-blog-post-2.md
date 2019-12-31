@@ -10,7 +10,7 @@ tags:
 
 With the sound of fireworks behind me, I craft this post in an Airbnb room in Prague, en route to a training I will have in Linz.
 Excited for what the future may hold, I consider the possibilities this coming year will bring for me and my family.
-And while my wife lies asleep in the bed next to me, I sit in the lounge sofa wondering what brought us to this moment in time.
+And while my wife lies asleep in the bed next to me, I sit on the lounge sofa wondering what brought us to this moment in time.
 
 Random strangers walking and discussing their New Year plans. I pick up those chats through the thin windows the seperate us. 
 Forgetting also the big difference in temperatures, I sit comfortably within a heated room listening to the excitement of many.
