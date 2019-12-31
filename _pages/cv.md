@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Bachelor of Information Technology and Systems, Monash University, 2008
