@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brand new(neo)'s perspective"
+title: "Brand Neo's perspective"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-An online space to jot down my thoughts. An online memoir (perhaps for my children?) to understand me a little bit better. Views are my own. 
+<br>
+
+A virtual space to jot down my thoughts.
+
+An online stage for me to express myself but also acting as a conduit for recollection of my ideas and feelings.
+
+An electronic memoir for my children or loved ones to better understand me.
+
+Views and expressions are my own. 
 
