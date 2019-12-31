@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-An online space to jot down my thoughts.
+An online space to jot down my thoughts. An online memoir (perhaps for my children?) to understand me a little bit better. Views are my own. 
 
